@@ -1,0 +1,14 @@
+{
+  "miniprogramRoot": "./dist",
+  "projectname": "myApp",
+  "description": "第一个TaroApp",
+  "appid": "wx33846ed71714821a",
+  "cloudfunctionRoot": "functions/",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
